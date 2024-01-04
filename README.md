@@ -16,4 +16,4 @@ __Project 3: Bitwise Operations and Binary Bomb in x86-64 Assembly__
 - reverse engineered assembly code to solve puzzles by inputting correct command line args
 
 __Project 4: Memory Allocator__
-- Utilized doubly-linked & pointer arithmetic to implement a memory management program in C
+- utilized doubly-linked & pointer arithmetic to implement a memory management program in C
