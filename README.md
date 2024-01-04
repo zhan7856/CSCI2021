@@ -12,3 +12,7 @@ __Project 1: Spell Check__
 __Project 2: Bitwise Operations and Puzzles__
 - solved a variety of problems using only bitwise operations
 - inputted correct command line args to solve bitwise puzzles
+
+__Project 3: Bitwise Operations and Binary Bomb in x86-64 Assembly__
+- solved similar problems from Project 2 using only x86-64 Assembly
+- reverse engineered assembly code to solve puzzles by inputting correct command line args
