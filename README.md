@@ -8,3 +8,7 @@ __Project 1: Spell Check__
 - takes in operations via command line
 - given another file of words, it can check if those words are correctly spelled
 - free memory and writes to file @ end
+
+__Project 2: Bitwise Operations and Puzzles__
+- solve a variety of problems using only bitwise operations
+- inputted correct command line args to solve bitwise puzzles
