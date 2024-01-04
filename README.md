@@ -1,5 +1,5 @@
 # CSCI2021
-Machine Architecture and Organization Projects
+__Machine Architecture and Organization Projects__
 
 __Project 1: Spell Check__
 - implemented a program that stores dictionaries with binary trees
