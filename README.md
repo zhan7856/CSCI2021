@@ -10,5 +10,5 @@ __Project 1: Spell Check__
 - free memory and saves words to file @ end
 
 __Project 2: Bitwise Operations and Puzzles__
-- solve a variety of problems using only bitwise operations
+- solved a variety of problems using only bitwise operations
 - inputted correct command line args to solve bitwise puzzles
